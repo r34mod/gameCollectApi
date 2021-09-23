@@ -1,2 +1,2 @@
+# Skeleton project for Swagger
 # gameCollectApi
-Api with NodeJS y Swagger 
